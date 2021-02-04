@@ -1,6 +1,6 @@
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
+I challenge you to a game of Tic-Tac-Toe!
 Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
 
 Xs go first, click one of the nine boxes to make your move.

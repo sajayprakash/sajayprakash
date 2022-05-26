@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23EC3FF7&lines=Welcome+to+my+github+profile!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=b8bb26&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 ## About Me
 👋 Hi, I'm Sajay Prakash. I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering at Rajalakshmi Engineering College (Tamil Nadu, India).
@@ -32,11 +32,11 @@
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/)
 
 ## My Github Stats 
-![Sajay's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajayprakash&theme=synthwave)
+![Sajay's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajayprakash&theme=gruvbox)
 <br>
 
 ----
 
 <br>
 
-![Sajay's github stats](https://github-readme-stats.vercel.app/api?username=sajayprakash&theme=synthwave)
+![Sajay's github stats](https://github-readme-stats.vercel.app/api?username=sajayprakash&theme=gruvbox)

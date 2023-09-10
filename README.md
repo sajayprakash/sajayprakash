@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajay Prakash</h1>
+<h1 align="center">👋 Hi, I'm Sajay Prakash</h1>
 <h3 align="center">A Junior Computer Science and Engineering student at Rajalakshmi Engineering College</h3>
 
 ### Blogs posts

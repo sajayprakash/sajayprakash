@@ -23,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=linux,vite,astro,react,svelte,tailwind,mysql,firebase,mongodb,figma,vscode,vim,neovim" />
 </div>
 
-<hr />
 
 <div align="center">
   <h2>My Contributions</h2>
@@ -36,6 +35,7 @@
 <hr />
 
 <div align="center">
+    <h2>My GitHub Stats</h2>
   <img width=390 src="https://streak-stats.demolab.com?user=sajayprakash&theme=tokyonight&border_radius=10" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sajayprakash&show_icons=true&theme=tokyonight&border_radius=10" />
   <br />

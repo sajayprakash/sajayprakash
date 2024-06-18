@@ -20,7 +20,7 @@
   <h1>Languages, Frameworks and Tools</h1>
   <img src="https://skillicons.dev/icons?i=git,python,c,java,lua,bash,js,ts,html,css,nodejs" />
   <br />
-  <img src="https://skillicons.dev/icons?i=linux,vite,astro,react,svelte,tailwind,mysql,firebase,mongodb,figma,vscode,vim,neovim" />
+  <img src="https://skillicons.dev/icons?i=linux,vite,astro,react,nextjs,svelte,tailwind,mysql,firebase,mongodb,figma,vscode,vim,neovim" />
 </div>
 
 

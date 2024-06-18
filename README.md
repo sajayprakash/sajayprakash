@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi+There!;+I'm+Sajay+Prakash" alt="Typing SVG" />
 </h1>
-<h3 align="center">A Junior Computer Science and Engineering student at Rajalakshmi Engineering College</h3>
+<h3 align="center">A Senior Computer Science and Engineering student at Rajalakshmi Engineering College</h3>
 <br />
 
 <div align="center">

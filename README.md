@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>Contact Me</h1>
-  <a href="mailto:contact@sajayprakash.com">
+  <a href="mailto:sajayprakashk@gmail.com">
     <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sajayprakash">
